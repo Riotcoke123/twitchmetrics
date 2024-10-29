@@ -32,16 +32,13 @@ cd twitch-viewer-metrics</code></pre>
     <p>Replace the placeholders for <code>CLIENT_ID</code> and <code>CLIENT_SECRET</code> with your actual Twitch API credentials.</p>
     <pre><code>CLIENT_ID = 'your_client_id'  # Replace with your Twitch Client ID
 CLIENT_SECRET = 'your_client_secret'  # Replace with your Twitch Client Secret</code></pre>
-
     <h2>Usage</h2>
     <h3>1. Edit the Username:</h3>
     <p>In the script, change the <code>username</code> variable to the Twitch username you want to analyze.</p>
     <pre><code>username = 'bobross'  # Replace with the Twitch username you want to analyze</code></pre>
-
     <h3>2. Run the Script:</h3>
     <p>Execute the script using Python.</p>
     <pre><code>python twitch_viewer_metrics.py</code></pre>
-
     <h3>3. Output:</h3>
     <p>The script will print the following metrics to the console:</p>
     <ul>
