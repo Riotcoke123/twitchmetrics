@@ -54,7 +54,7 @@ CLIENT_SECRET = 'your_client_secret'  # Replace with your Twitch Client Secret</
 Total View Count: 1000
 Bot Viewers: 100
 Real Viewers: 900
-Metrics saved to C:\Users\yourusername\OneDrive\Desktop\data.json</code></pre>
+Metrics saved to data.json</code></pre>
     <h2>Enhancements</h2>
     <p>The script currently uses a placeholder for chat activity to estimate bot viewers. For a more accurate detection, consider implementing a method to fetch real chat activity metrics or utilizing additional data sources.</p>
     <h2>License</h2>
