@@ -7,7 +7,7 @@
 <body>
 
    <h1>Twitch Viewer Metrics</h1>
-    <p>A Python script that retrieves and analyzes Twitch stream metrics, including total viewer counts, bot viewer estimations, and real viewer counts. The script connects to the Twitch API and leverages OAuth for authenticated requests.</p>
+    <p>A Python script that retrieves and analyzes Twitch stream metrics, including total viewer counts, bot viewer estimations, and real viewer counts. The script connects to the Twitch API and leverages OAuth for authenticated requests. Please note that this is a beta version, and we are actively working on refining the algorithms to enhance the accuracy of bot engagement estimations.</p>
     <h2>Features</h2>
     <ul>
         <li>Retrieve total viewer counts for a specified Twitch user.</li>
