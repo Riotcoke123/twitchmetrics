@@ -6,6 +6,8 @@
 </head>
 <body>
      <img src="https://github.com/user-attachments/assets/f7ec9f87-2ade-41f2-a1c1-5ae084ea20e4" style="width:17%;max-width:50px;>
+     <br>
+     <br>
 
 
    <h1>Twitch Viewer Metrics</h1>
