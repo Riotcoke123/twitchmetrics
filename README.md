@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-     <img src="https://github.com/user-attachments/assets/f7ec9f87-2ade-41f2-a1c1-5ae084ea20e4">
+     <img src="https://github.com/user-attachments/assets/f7ec9f87-2ade-41f2-a1c1-5ae084ea20e4" style="width:17%;max-width:50px;>
 
 
    <h1>Twitch Viewer Metrics</h1>
