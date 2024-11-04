@@ -8,7 +8,7 @@
 <body>
      <img src="https://github.com/user-attachments/assets/f7ec9f87-2ade-41f2-a1c1-5ae084ea20e4" style="width:17%;max-width:50px;"> <!-- Fixed style attribute closing -->
      <br>
-     <br>
+
 
    <h1>Twitch Viewer Metrics</h1>
     <p>A Python script that retrieves and analyzes Twitch stream metrics, including total viewer counts, bot viewer estimations, and real viewer counts. The script connects to the Twitch API and leverages OAuth for authenticated requests. Please note that this is a beta version, and we are actively working on refining the algorithms to enhance the accuracy of bot engagement estimations.</p>
