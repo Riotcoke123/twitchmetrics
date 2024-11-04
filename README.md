@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Twitch Viewer Metrics</title> <!-- Added a title for better accessibility -->
+
 </head>
 <body>
      <img src="https://github.com/user-attachments/assets/f7ec9f87-2ade-41f2-a1c1-5ae084ea20e4" style="width:17%;max-width:50px;"> <!-- Fixed style attribute closing -->
