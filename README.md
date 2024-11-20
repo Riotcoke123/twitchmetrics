@@ -52,7 +52,7 @@ CLIENT_SECRET = 'your_client_secret'  # Replace with your Twitch Client Secret</
         <li>Real Viewers</li>
     </ul>
     <p>It will also save the metrics to a JSON file at the specified file path.</p>
-    <pre><code>Metrics saved to C:\Users\yourusername\OneDrive\Desktop\data.json</code></pre>
+    <pre><code>Metrics saved to data.json</code></pre>
     <h2>Example Output</h2>
     <pre><code>Username: bobross
 Total View Count: 1000
